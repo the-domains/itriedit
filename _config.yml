@@ -1,0 +1,37 @@
+name: itriedit
+analytics: {}
+github: true
+description: product and services reviews and testing
+author:
+  name: Ramona Patino
+  email: beyond8747300@aim.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.5679181292653084
+color:
+  lightness: 0.3607071252448268
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  saturation: 0.5281980311330869
+  brandStrength: 0.5395891444151264
+  rhythmicContrast: 0.9676136791165019
+content_rating:
+  adult: false
+typography_spectrum: 0.7871653370093554
+opengraph: {}
+title: I Tried It
